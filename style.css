@@ -1,0 +1,52 @@
+body{
+    padding: 50px;
+}
+.section1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+.section1 h1{
+    padding-top: 10px;
+    
+}
+.section1 p{
+    color: lightgrey;
+    padding-bottom: 10px;
+}
+.receipe-1,.receipe-2,.receipe-3,.receipe-4{
+    border: solid 3px black;
+    display: inline-block;
+}
+.section2{
+    text-align: center;
+}
+.receipe-1__title ,.receipe-2__title ,.receipe-3__title ,.receipe-4__title {
+    font-weight: bolder;
+}
+.order-btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    
+}
+
+.section-3{
+    background-color:black;
+    color: white;
+    
+    text-align: center;
+}
+table{
+    display: inline-block;
+}
+.submit-btn{
+    background-color: yellow;
+    color:black;
+    padding: 5px 250px;
+    margin-bottom: 5px;
+}
+.contact-form h2 {
+   padding-top: 20px;
+}
